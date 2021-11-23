@@ -9,7 +9,7 @@ package cmd
 
 import (
 	"github.com/spf13/cobra"
-	"github.com/vagaryer/yucli/internal/word"
+	"github.com/vagaryer/crow/internal/word"
 	"log"
 	"strings"
 )

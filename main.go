@@ -6,7 +6,7 @@
 package main
 
 import (
-	"github.com/vagaryer/yucli/cmd"
+	"github.com/vagaryer/crow/cmd"
 	"log"
 )
 

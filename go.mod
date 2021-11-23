@@ -1,4 +1,4 @@
-module github.com/vagaryer/yucli
+module github.com/vagaryer/crow
 
 go 1.16
 
