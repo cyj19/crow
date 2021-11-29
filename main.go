@@ -1,12 +1,12 @@
 /**
- * @Author: vagary
+ * @Author: cyj19
  * @Date: 2021/11/23 9:25
  */
 
 package main
 
 import (
-	"github.com/vagaryer/crow/cmd"
+	"github.com/cyj19/crow/cmd"
 	"log"
 )
 

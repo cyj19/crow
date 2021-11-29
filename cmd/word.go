@@ -1,5 +1,5 @@
 /**
- * @Author: vagary
+ * @Author: cyj19
  * @Date: 2021/11/23 9:28
  */
 
@@ -8,8 +8,8 @@
 package cmd
 
 import (
+	"github.com/cyj19/crow/internal/word"
 	"github.com/spf13/cobra"
-	"github.com/vagaryer/crow/internal/word"
 	"log"
 	"strings"
 )

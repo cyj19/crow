@@ -1,4 +1,4 @@
-module github.com/vagaryer/crow
+module github.com/cyj19/crow
 
 go 1.16
 
